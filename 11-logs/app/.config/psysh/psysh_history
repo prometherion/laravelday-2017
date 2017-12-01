@@ -1,0 +1,10 @@
+_HiStOrY_V2_
+env('LARAVELDAY'))
+env('LARAVELDAY')
+env('LARAVELDAY')
+Cache::get('*')
+\\DB::select('SHOW\040DATABASES')
+\\DB::select('SHOW\040DATABASE')
+\\DB::select('SHOW\040DATABASES')
+\\DB::select('SHOW\040DATABASES')
+\\Cache::connection('redis')

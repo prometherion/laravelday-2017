@@ -1,0 +1,7 @@
+FROM prometherion/php7-nginx:1.1.3
+
+USER root
+
+ADD ./composer.json ./composer.json
+
+RUN composer install

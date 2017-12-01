@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  php71:
+    build:
+      context: ./
+      dockerfile: Dockerfile-71
+  php56:
+    build: 
+      context: ./
+      dockerfile: Dockerfile-56

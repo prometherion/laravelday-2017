@@ -1,0 +1,14 @@
+{
+    "name": "laravelday/2017",
+    "description": "2. Dependencies",
+    "type": "project",
+    "authors": [
+        {
+            "name": "prometherion",
+            "email": "dario@tranchitella.eu"
+        }
+    ],
+    "require": {
+        "ext-pdo": "*"
+    }
+}
